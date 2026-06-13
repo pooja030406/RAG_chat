@@ -17,4 +17,5 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that answ
 
 ## Run
 
-
+```bash
+streamlit run streamlit_app.py
